@@ -1,0 +1,366 @@
+/* All the icons are coming from 
+
+https://github.com/goteamwave/gmail-addon-icons 
+
+repository*/
+
+body {
+    font-family: Lato,sans-serif !important;
+    color: #30343c !important;
+}
+#docsSearch{
+    font-family: Lato,sans-serif !important;
+    color: #30343c !important;
+    background: #3f89e2 !important;
+    height: 200px;
+    margin-top: -1px !important;
+}
+#docsSearch h1{
+    color: #fff !important;
+}
+#docsSearch #searchBar button{
+	height: 60px !important;
+	border: 0px solid #607cd4 !important;
+    background: #2b4c68 !important;
+    outline: none !important;
+}
+#docsSearch #searchBar button:hover{
+	background: #2b4c68 !important;	
+}
+#docsSearch #searchBar button .icon-search{
+	display: -webkit-box !important;
+    color: #fff;
+}
+#docsSearch #searchBar button > span{
+	display: none !important;
+}
+#docsSearch #searchBar .search-query{
+    border: none;
+    box-shadow: 0px 6px 20px 0px #5161958c;
+    font-family: Lato,sans-serif !important;
+    height: 60px !important;
+    padding-left: 20px !important;
+}
+.navbar .navbar-inner{
+    min-height: 57px !important;
+	background: #3f89e2 !important;
+}
+.navbar .nav li a{
+	color: #fff !important;
+}
+.navbar .nav .active .caret{
+    bottom: -3px !important;
+}
+.navbar .nav #general{
+	display: none !important;
+}
+.navbar .nav #faqs{
+	display: none !important;
+}
+.collection-category h2 a{
+	font-weight: bold !important;
+}
+.category-list .category{
+    background: #fff !important;
+    border: 0px !important;
+    box-shadow: 0 2.5px 6px #f1f1f1!important;
+    border-radius: 4px;
+}
+.category-list .category:hover{
+    box-shadow: 0 4.5px 20px #ccc!important;
+    background: #fff !important;
+}
+.contentWrapper{
+    box-shadow: 0 2.5px 6px rgba(43,59,93,.27)!important;
+    border-radius: 4px !important;
+	border: 0px !important;
+}
+.articleList a{
+	display: -webkit-box !important;
+}
+.articleList li{
+    margin: 0.4em 0 !important;
+    padding-left: 33px !important;
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    border-radius: 4px !important;
+}
+.articleList li:hover{
+    background: #f9f9f9 !important;
+}
+.articleList a .icon-article-doc{
+	display: none !important;
+}
+#sidebar form .search-query{
+	box-shadow: 0 2.5px 6px rgba(43,59,93,.27)!important;
+	border: 0px !important;
+	font-family: Lato,sans-serif !important;
+}
+.articleFoot p, .articleFoot time{
+    font-family: Lato,sans-serif !important;
+}
+.category-list h3{
+	margin-top: 23% !important;
+}
+
+
+/* Background Icons */
+
+/* PM Section */
+
+#category-4 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Getting-Started.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-6 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Project.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-92 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Tasks.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-93 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Files-and-Notes.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-82 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Schedule.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 55px !important;
+}
+#category-9 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Timesheet.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-5 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Project-Mail.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-7 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/Dashboard.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+
+/* CRM Section */
+
+#category-13 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Getting-Started.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-14 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Deal.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-15 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Pipeline.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-17 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Contact.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-16 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Activity.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 55px !important;
+}
+#category-18 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/CRM-Mail.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-20 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Forms.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-19 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Goal.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-21 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Filter.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-62 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Custom-Fields.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+
+/* HRMS Section */
+
+#category-25 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/HRMS/Getting-Started.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-28 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/HRMS/Manage-User.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-27 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/HRMS/Autocheckin.png) !important;
+    background-position: top 25px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 45px !important;
+}
+#category-26 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/HRMS/Time-Off.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+
+/* Integration Section */
+
+#category-124 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Dropbox.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-122 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Google.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-118 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Gmail.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-126 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Mailchimp.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-128 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Slack.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-114 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Zapier.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+
+/* Setting & FAQs Section */
+
+#category-135 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Custom-Filter.png) !important;
+    background-position: top 35px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+#category-142 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/FAQs.png) !important;
+    background-position: top 35px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
+
+/* Finishing */
+
+/* Contact Form Style */
+.modal-body{
+	padding: 0 6em 0 !important;
+	padding-top: 0px !important;
+	margin-bottom: 10px !important;
+}
+#contactModal{
+	border-top: 5px solid #3f89e2;
+}
+#contactModal h2{
+    color: #3f89e2 !important;
+    font-size: 25px !important;
+    padding: 20px 0px 5px 0px !important;
+	text-align: center !important;
+	border-bottom: 0px !important;
+}
+#contactModal .control-label{
+	float: none !important;
+	text-align: left !important;
+	width: auto !important;
+	color: #3f89e2 !important;
+	font-size: 14px;
+}
+#contactModal .controls{
+	margin-left: 130px !important;
+    margin: 0 !important;
+}
+#contactModal .controls input{
+	box-shadow: none !important;
+	height: 30px !important;
+	width: 400px !important;
+	font-family: Lato,sans-serif !important;
+	font-size: 15px;
+	padding-left: 12px;
+	text-transform: capitalize !important;
+}
+#contactModal .form-actions {
+    padding-left: 130px !important;
+    padding: 0 !important;
+    margin: 15px auto 20px !important;
+    text-align: center !important;
+}
+#contactModal .form-actions input{
+	background: #3f89e2 !important; 
+	border: 0 !important;
+	color: #fff !important;
+	font-size: 13px !important;
+	padding: 10px 25px !important;
+	text-shadow: none !important;
+	padding-bottom: 10px !important;
+	width: 100%;
+	font-family: Lato,sans-serif !important;
+}
+#contactModal #md-message{
+    width: 410px !important;
+    min-height: 70px !important;
+}
+.icon-close:before, .featherlight-close-icon:before{
+	color: #e5b6b6 !important;
+}
+/* Ends here */
