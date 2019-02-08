@@ -273,6 +273,12 @@ body {
     background-repeat: no-repeat !important;
     background-size: 60px 60px !important;
 }
+#category-163 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/quickbooks.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
 #category-128 {
     background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Slack.png) !important;
     background-position: top 18px center !important;
