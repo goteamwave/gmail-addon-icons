@@ -102,7 +102,15 @@ body {
 .category-list h3{
 	margin-top: 23% !important;
 }
-
+#home .caret{
+    display: none;
+}
+#home.active a{
+    background: #fff;
+    color: #3f89e2 !important;
+    border-radius: 4px;
+    padding: 0px 8px 0px 9px;
+}
 
 /* Background Icons */
 
