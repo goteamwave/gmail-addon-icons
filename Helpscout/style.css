@@ -285,9 +285,9 @@ body {
 }
 #category-128 {
     background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Slack.png) !important;
-    background-position: top 18px center !important;
+    background-position: top 0px center !important;
     background-repeat: no-repeat !important;
-    background-size: 60px 60px !important;
+    background-size: 100px 100px !important;
 }
 #category-114 {
     background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/Integration/Zapier.png) !important;
