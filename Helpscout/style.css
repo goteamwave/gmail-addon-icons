@@ -169,6 +169,12 @@ body {
     background-repeat: no-repeat !important;
     background-size: 60px 60px !important;
 }
+#category-200 {
+    background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/PM/product-icon-support.png) !important;
+    background-position: top 18px center !important;
+    background-repeat: no-repeat !important;
+    background-size: 60px 60px !important;
+}
 #category-14 {
     background-image: url(https://raw.githubusercontent.com/goteamwave/gmail-addon-icons/master/Helpscout/CRM/Deal.png) !important;
     background-position: top 18px center !important;
